@@ -1,1 +1,2 @@
 http://backend.course#cmak12
+http://backend.course?name=%22Dmytro%20Sumtsov%22&github_name=cmak12&group=FEP21&subgroup=2
